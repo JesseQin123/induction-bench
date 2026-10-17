@@ -1,0 +1,16 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.DS_Store
+.env
+.env.*
+!.env.example
+.openai/
+.codex/
+.agents/
+references/
+deliverables/
+capture-frames/
+*.log
+*.pem
+*.key

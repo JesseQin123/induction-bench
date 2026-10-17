@@ -1,0 +1,569 @@
+{
+  "method": "Actual Chrome viewport screenshots; deterministic input replay; one freshly rendered state per frame; no interpolation",
+  "simulation_fps": 30,
+  "frames": 1200,
+  "unique_screenshot_sha256_count": 1200,
+  "duration_seconds": 40,
+  "sampled_visible_states": [
+    {
+      "caption": "Induction, made visible.",
+      "frame": 0,
+      "metrics": [
+        "0.00mV",
+        "0.0mA",
+        "0.00mT",
+        "0.00mN"
+      ],
+      "position": "+10.5 cm",
+      "time": "t 0.0 s",
+      "turns": "200",
+      "voltage": "0"
+    },
+    {
+      "caption": "Induction, made visible.",
+      "frame": 30,
+      "metrics": [
+        "0.00mV",
+        "0.0mA",
+        "0.00mT",
+        "0.00mN"
+      ],
+      "position": "+10.5 cm",
+      "time": "t 1.0 s",
+      "turns": "200",
+      "voltage": "0"
+    },
+    {
+      "caption": "Drag the magnet through the coil.",
+      "frame": 60,
+      "metrics": [
+        "0.00mV",
+        "0.0mA",
+        "0.00mT",
+        "0.00mN"
+      ],
+      "position": "+10.5 cm",
+      "time": "t 2.0 s",
+      "turns": "200",
+      "voltage": "0"
+    },
+    {
+      "caption": "Drag the magnet through the coil.",
+      "frame": 90,
+      "metrics": [
+        "-1.55mV",
+        "-0.5mA",
+        "0.00mT",
+        "0.01mN"
+      ],
+      "position": "+0.2 cm",
+      "time": "t 3.0 s",
+      "turns": "200",
+      "voltage": "0"
+    },
+    {
+      "caption": "Drag the magnet through the coil.",
+      "frame": 120,
+      "metrics": [
+        "+0.00mV",
+        "+0.0mA",
+        "+0.00mT",
+        "0.00mN"
+      ],
+      "position": "-10.0 cm",
+      "time": "t 4.0 s",
+      "turns": "200",
+      "voltage": "0"
+    },
+    {
+      "caption": "Drag the magnet through the coil.",
+      "frame": 150,
+      "metrics": [
+        "-4.57mV",
+        "-1.6mA",
+        "-0.01mT",
+        "0.06mN"
+      ],
+      "position": "-2.8 cm",
+      "time": "t 5.0 s",
+      "turns": "200",
+      "voltage": "0"
+    },
+    {
+      "caption": "Drag the magnet through the coil.",
+      "frame": 180,
+      "metrics": [
+        "+0.33mV",
+        "+0.1mA",
+        "+0.00mT",
+        "0.00mN"
+      ],
+      "position": "+8.4 cm",
+      "time": "t 6.0 s",
+      "turns": "200",
+      "voltage": "0"
+    },
+    {
+      "caption": "Drag the magnet through the coil.",
+      "frame": 210,
+      "metrics": [
+        "-0.27mV",
+        "-0.1mA",
+        "0.00mT",
+        "0.00mN"
+      ],
+      "position": "+8.6 cm",
+      "time": "t 7.0 s",
+      "turns": "200",
+      "voltage": "0"
+    },
+    {
+      "caption": "Drag the magnet through the coil.",
+      "frame": 240,
+      "metrics": [
+        "+4.53mV",
+        "+1.6mA",
+        "+0.01mT",
+        "0.07mN"
+      ],
+      "position": "-1.5 cm",
+      "time": "t 8.0 s",
+      "turns": "200",
+      "voltage": "0"
+    },
+    {
+      "caption": "Reverse the poles.",
+      "frame": 270,
+      "metrics": [
+        "+0.75mV",
+        "+0.3mA",
+        "+0.00mT",
+        "0.00mN"
+      ],
+      "position": "-8.7 cm",
+      "time": "t 9.0 s",
+      "turns": "200",
+      "voltage": "0"
+    },
+    {
+      "caption": "Reverse the poles.",
+      "frame": 300,
+      "metrics": [
+        "-13.04mV",
+        "-4.6mA",
+        "-0.03mT",
+        "0.20mN"
+      ],
+      "position": "+2.0 cm",
+      "time": "t 10.0 s",
+      "turns": "200",
+      "voltage": "0"
+    },
+    {
+      "caption": "Reverse the poles.",
+      "frame": 330,
+      "metrics": [
+        "+3.63mV",
+        "+1.3mA",
+        "+0.01mT",
+        "0.02mN"
+      ],
+      "position": "+5.4 cm",
+      "time": "t 11.0 s",
+      "turns": "200",
+      "voltage": "0"
+    },
+    {
+      "caption": "Reverse the poles.",
+      "frame": 360,
+      "metrics": [
+        "+0.24mV",
+        "+0.1mA",
+        "+0.00mT",
+        "0.00mN"
+      ],
+      "position": "-10.8 cm",
+      "time": "t 12.0 s",
+      "turns": "200",
+      "voltage": "0"
+    },
+    {
+      "caption": "Change the coil.",
+      "frame": 390,
+      "metrics": [
+        "-0.43mV",
+        "-0.1mA",
+        "0.00mT",
+        "0.00mN"
+      ],
+      "position": "+11.8 cm",
+      "time": "t 13.0 s",
+      "turns": "400",
+      "voltage": "0"
+    },
+    {
+      "caption": "Change the coil.",
+      "frame": 420,
+      "metrics": [
+        "-5.93mV",
+        "-1.2mA",
+        "-0.04mT",
+        "0.03mN"
+      ],
+      "position": "-8.1 cm",
+      "time": "t 14.0 s",
+      "turns": "400",
+      "voltage": "0"
+    },
+    {
+      "caption": "Change the coil.",
+      "frame": 450,
+      "metrics": [
+        "-70.36mV",
+        "-13.7mA",
+        "-0.51mT",
+        "3.23mN"
+      ],
+      "position": "+1.2 cm",
+      "time": "t 15.0 s",
+      "turns": "400",
+      "voltage": "0"
+    },
+    {
+      "caption": "Change the coil.",
+      "frame": 480,
+      "metrics": [
+        "+15.57mV",
+        "+2.1mA",
+        "+0.08mT",
+        "0.12mN"
+      ],
+      "position": "+6.1 cm",
+      "time": "t 16.0 s",
+      "turns": "400",
+      "voltage": "0"
+    },
+    {
+      "caption": "Change the coil.",
+      "frame": 510,
+      "metrics": [
+        "+1.11mV",
+        "+0.1mA",
+        "+0.01mT",
+        "0.00mN"
+      ],
+      "position": "-11.1 cm",
+      "time": "t 17.0 s",
+      "turns": "400",
+      "voltage": "0"
+    },
+    {
+      "caption": "Change the coil.",
+      "frame": 540,
+      "metrics": [
+        "-0.61mV",
+        "-0.1mA",
+        "0.00mT",
+        "0.00mN"
+      ],
+      "position": "+11.6 cm",
+      "time": "t 18.0 s",
+      "turns": "400",
+      "voltage": "0"
+    },
+    {
+      "caption": "Rotate the coil.",
+      "frame": 570,
+      "metrics": [
+        "-3.36mV",
+        "-0.4mA",
+        "-0.02mT",
+        "0.01mN"
+      ],
+      "position": "-7.5 cm",
+      "time": "t 19.0 s",
+      "turns": "400",
+      "voltage": "0"
+    },
+    {
+      "caption": "Rotate the coil.",
+      "frame": 600,
+      "metrics": [
+        "-13.49mV",
+        "-1.8mA",
+        "-0.07mT",
+        "0.08mN"
+      ],
+      "position": "+0.5 cm",
+      "time": "t 20.0 s",
+      "turns": "400",
+      "voltage": "0"
+    },
+    {
+      "caption": "Rotate the coil.",
+      "frame": 630,
+      "metrics": [
+        "+4.76mV",
+        "+0.6mA",
+        "+0.02mT",
+        "0.01mN"
+      ],
+      "position": "+6.8 cm",
+      "time": "t 21.0 s",
+      "turns": "400",
+      "voltage": "0"
+    },
+    {
+      "caption": "Rotate the coil.",
+      "frame": 660,
+      "metrics": [
+        "+0.85mV",
+        "+0.1mA",
+        "+0.00mT",
+        "0.00mN"
+      ],
+      "position": "-11.4 cm",
+      "time": "t 22.0 s",
+      "turns": "400",
+      "voltage": "0"
+    },
+    {
+      "caption": "Add a 2.5 V battery.",
+      "frame": 690,
+      "metrics": [
+        "-0.82mV",
+        "+331.9mA",
+        "+12.41mT",
+        "2.92mN"
+      ],
+      "position": "+11.4 cm",
+      "time": "t 23.0 s",
+      "turns": "400",
+      "voltage": "2.5"
+    },
+    {
+      "caption": "Add a 2.5 V battery.",
+      "frame": 720,
+      "metrics": [
+        "-10.80mV",
+        "+330.6mA",
+        "+12.36mT",
+        "14.55mN"
+      ],
+      "position": "-6.9 cm",
+      "time": "t 24.0 s",
+      "turns": "400",
+      "voltage": "2.5"
+    },
+    {
+      "caption": "Add a 2.5 V battery.",
+      "frame": 750,
+      "metrics": [
+        "+24.75mV",
+        "+335.3mA",
+        "+12.54mT",
+        "27.67mN"
+      ],
+      "position": "-0.3 cm",
+      "time": "t 25.0 s",
+      "turns": "400",
+      "voltage": "2.5"
+    },
+    {
+      "caption": "Add a 2.5 V battery.",
+      "frame": 780,
+      "metrics": [
+        "+8.27mV",
+        "+333.1mA",
+        "+12.46mT",
+        "11.72mN"
+      ],
+      "position": "+7.5 cm",
+      "time": "t 26.0 s",
+      "turns": "400",
+      "voltage": "2.5"
+    },
+    {
+      "caption": "Add a 2.5 V battery.",
+      "frame": 810,
+      "metrics": [
+        "+0.64mV",
+        "+332.1mA",
+        "+12.42mT",
+        "2.75mN"
+      ],
+      "position": "-11.6 cm",
+      "time": "t 27.0 s",
+      "turns": "400",
+      "voltage": "2.5"
+    },
+    {
+      "caption": "Reverse the battery.",
+      "frame": 840,
+      "metrics": [
+        "-1.07mV",
+        "-332.2mA",
+        "-12.42mT",
+        "3.18mN"
+      ],
+      "position": "+11.1 cm",
+      "time": "t 28.0 s",
+      "turns": "400",
+      "voltage": "-2.5"
+    },
+    {
+      "caption": "Reverse the battery.",
+      "frame": 870,
+      "metrics": [
+        "-14.90mV",
+        "-334.0mA",
+        "-12.49mT",
+        "19.41mN"
+      ],
+      "position": "-6.2 cm",
+      "time": "t 29.0 s",
+      "turns": "400",
+      "voltage": "-2.5"
+    },
+    {
+      "caption": "Reverse the battery.",
+      "frame": 900,
+      "metrics": [
+        "+67.04mV",
+        "-323.1mA",
+        "-12.08mT",
+        "72.54mN"
+      ],
+      "position": "-1.1 cm",
+      "time": "t 30.0 s",
+      "turns": "400",
+      "voltage": "-2.5"
+    },
+    {
+      "caption": "Move faster. See the response.",
+      "frame": 930,
+      "metrics": [
+        "-1.85mV",
+        "-0.6mA",
+        "0.00mT",
+        "0.00mN"
+      ],
+      "position": "+7.7 cm",
+      "time": "t 31.0 s",
+      "turns": "200",
+      "voltage": "0"
+    },
+    {
+      "caption": "Move faster. See the response.",
+      "frame": 960,
+      "metrics": [
+        "-15.83mV",
+        "-5.5mA",
+        "-0.04mT",
+        "0.20mN"
+      ],
+      "position": "-1.0 cm",
+      "time": "t 32.0 s",
+      "turns": "200",
+      "voltage": "0"
+    },
+    {
+      "caption": "Move faster. See the response.",
+      "frame": 990,
+      "metrics": [
+        "+4.21mV",
+        "+1.5mA",
+        "+0.01mT",
+        "0.02mN"
+      ],
+      "position": "-6.0 cm",
+      "time": "t 33.0 s",
+      "turns": "200",
+      "voltage": "0"
+    },
+    {
+      "caption": "Move faster. See the response.",
+      "frame": 1020,
+      "metrics": [
+        "+0.33mV",
+        "+0.1mA",
+        "+0.00mT",
+        "0.00mN"
+      ],
+      "position": "+10.9 cm",
+      "time": "t 34.0 s",
+      "turns": "200",
+      "voltage": "0"
+    },
+    {
+      "caption": "Move faster. See the response.",
+      "frame": 1050,
+      "metrics": [
+        "-0.10mV",
+        "0.0mA",
+        "0.00mT",
+        "0.00mN"
+      ],
+      "position": "-11.8 cm",
+      "time": "t 35.0 s",
+      "turns": "200",
+      "voltage": "0"
+    },
+    {
+      "caption": "Explore it yourself.",
+      "frame": 1080,
+      "metrics": [
+        "-0.41mV",
+        "-0.1mA",
+        "0.00mT",
+        "0.00mN"
+      ],
+      "position": "+9.1 cm",
+      "time": "t 36.0 s",
+      "turns": "200",
+      "voltage": "0"
+    },
+    {
+      "caption": "Explore it yourself.",
+      "frame": 1110,
+      "metrics": [
+        "+0.52mV",
+        "+0.2mA",
+        "+0.00mT",
+        "0.00mN"
+      ],
+      "position": "-8.6 cm",
+      "time": "t 37.0 s",
+      "turns": "200",
+      "voltage": "0"
+    },
+    {
+      "caption": "Explore it yourself.",
+      "frame": 1140,
+      "metrics": [
+        "-0.91mV",
+        "-0.3mA",
+        "0.00mT",
+        "0.00mN"
+      ],
+      "position": "-7.5 cm",
+      "time": "t 38.0 s",
+      "turns": "200",
+      "voltage": "0"
+    },
+    {
+      "caption": "Explore it yourself.",
+      "frame": 1170,
+      "metrics": [
+        "+0.25mV",
+        "+0.1mA",
+        "+0.00mT",
+        "0.00mN"
+      ],
+      "position": "+10.1 cm",
+      "time": "t 39.0 s",
+      "turns": "200",
+      "voltage": "0"
+    }
+  ]
+}
